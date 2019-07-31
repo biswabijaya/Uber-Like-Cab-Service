@@ -1,12 +1,12 @@
 # Uber Like Cab Service
-This project is an Uber like Android app with php backend. It allows you to book the nearest available cab. Driver app is also present in the repo along with the server code.
+This project is an Uber like Android app with php backend. It allows you to book the nearest available cab. Driver app is also present in the repo along with the server code. Enhanced version.
 
 ## Prerequisites
 1. Google Maps API key.
 2. OneSignal API key.
 
 ## STEP 1
-```git clone https://github.com/AnupKumarPanwar/Uber-Like-Cab-Service.git```
+```git clone https://github.com/biswabijaya/Uber-Like-Cab-Service.git```
 
 ## STEP 2
 1. Open the User App in Android Studio.
